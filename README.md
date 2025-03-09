@@ -1,2 +1,2 @@
-# .github
-repository for organization profile
+# ".github"
+This repository is required for organization's profile.
