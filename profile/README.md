@@ -14,4 +14,4 @@ Horizon Vertical is organization for alumni or alumnae of [Ryukoku Horizon](http
 
 
 <br><br><br><br><br>
-This github organization is maintained by [imkoga002](https://gihtub.com/imkoga002).
+This github organization is maintained by [imkoga002](https://github.com/imkoga002).
