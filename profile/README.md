@@ -1,17 +1,29 @@
-# Horizon Vertical 
-Horizon Vertical is organization for alumni or alumnae of [Ryukoku Horizon](https://github.com/ryukoku-horizon).
+<p align="center">
+    <h1>HorizonVertical</h1>
+    <img src="https://avatars.githubusercontent.com/u/194274048?s=200&v=4" alt="HorizonVertical Logo" width="200">
+</p>
 
-## Table of Contents
-- [chap1](#chap1)
-- [chap2](#chap2)
-- [chap3](#chap3)
-- [chap4](#chap4)
+## About HorizonVertical
+HorizonVertical is an organization for alumni and alumnea of [RyukokuHorizon](https://github.com/ryukoku-horizon).
 
-<div id=chap1><h2>chap1</h2></div>
-<div id=chap2><h2>chap2</h2></div>
-<div id=chap3><h2>chap3</h2></div>
-<div id=chap4><h2>chap4</h2></div>
+## Mission, Vision, and Values
+HorizonVertical upholds three key principles.
+### Mission
+- **To foster co-creation through horizontal and vertical connections.**\
+By bringing together people who share common interests, and combining their unique personalities and skills regardless of age, experience, or position, we create an environment where we can take on exciting and new challenges.
+### Vision
+- **To be an organization we can be proud of—both to our loved ones and to ourselves—and to continue being so.**\
+A group that is so meaningful and appealing that you can proudly say to your family, friends, and your future self, 'I am a part of this organization.
+### Value
+- **Hyogeru – We embrace creativity and expressiveness with playfulness and boldness.**\
+Follow your heart without conforming to fixed forms, and freely pursue your own sense of 'suki'—your passions—or your ideals. And through taking on interesting challenges, cultivate your own sense of 'iki'—refined style and spirit.
+- **Mutual Support – We believe in give-and-take relationships, where everyone helps and is helped in turn.**\
+Rather than a one-sided relationship of dependence, we value a bond where both sides give and receive freely—an open, mutually beneficial give-and-take.
+
+## Contact
+~~contact@horizonvertical.org~~ ***doesn't work yet***
 
 
 <br><br><br><br><br>
+**Maintainer**\
 This github organization is maintained by [imkoga002](https://github.com/imkoga002).
