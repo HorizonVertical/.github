@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
     <h1>HorizonVertical</h1>
     <img src="https://avatars.githubusercontent.com/u/194274048?s=200&v=4" alt="HorizonVertical Logo" width="200">
-</p>
+</div>
 
 ## About HorizonVertical
 HorizonVertical is an organization for alumni and alumnea of [RyukokuHorizon](https://github.com/ryukoku-horizon).
