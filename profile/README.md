@@ -1,5 +1,6 @@
 <div align="center">
     <h1>HorizonVertical</h1>
+    <p>[en](README.md), [jp](README-jp.md)</p>
     <img src="https://avatars.githubusercontent.com/u/194274048?s=200&v=4" alt="HorizonVertical Logo" width="200">
 </div>
 
