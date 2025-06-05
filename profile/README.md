@@ -22,8 +22,8 @@ Follow your heart without conforming to fixed forms, and freely pursue your own 
 Rather than a one-sided relationship of dependence, we value a bond where both sides give and receive freely—an open, mutually beneficial give-and-take.
 
 ## Contact
-[HorizonVertical Homepage](https://www.horizonvertical.org)
-~~contact@horizonvertical.org~~ ***doesn't work yet***
+- [HorizonVertical Homepage](https://www.horizonvertical.org)
+- ~~contact@horizonvertical.org~~ ***doesn't work yet***
 
 
 <br><br><br><br><br>
