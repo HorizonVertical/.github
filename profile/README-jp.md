@@ -22,7 +22,7 @@ HorizonVerticalは3つの信念を掲げています。
 一方的な依存関係ではなく、「互いに利を受け、与える遠慮なき間柄」、つまりギブアンドテイクを大切にする。
 
 ## Contact
-~~contact@horizonvertical.org~~ ***doesn't work yet***
+[HorizonVertical Homepage](https://www.horizonvertical.org)
 
 
 <br><br><br><br><br>
