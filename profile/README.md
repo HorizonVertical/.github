@@ -23,7 +23,6 @@ Rather than a one-sided relationship of dependence, we value a bond where both s
 
 ## Contact
 - [HorizonVertical Homepage](https://www.horizonvertical.org)
-- ~~contact@horizonvertical.org~~ ***doesn't work yet***
 
 
 <br><br><br><br><br>
