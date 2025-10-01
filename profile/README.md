@@ -21,9 +21,10 @@ Follow your heart without conforming to fixed forms, and freely pursue your own 
 - **Mutual Support – We believe in give-and-take relationships, where everyone helps and is helped in turn.**\
 Rather than a one-sided relationship of dependence, we value a bond where both sides give and receive freely—an open, mutually beneficial give-and-take.
 
-## Contact
-- [HorizonVertical Homepage](https://www.horizonvertical.org)
-
+## Media
+- [Website](https://www.horizonvertical.org)
+- [Instagram](https://instagram.com/h_vertical_org)
+- [X](https://x.com/h_vertical_org)
 
 <br><br><br><br><br>
 **Maintainer**\
