@@ -27,5 +27,5 @@ Rather than a one-sided relationship of dependence, we value a bond where both s
 - [X](https://x.com/h_vertical_org)
 
 <br><br><br><br><br>
-**Maintainer**\
+**Contact & Maintain**\
 This github organization is maintained by [imkoga002](https://github.com/imkoga002).
