@@ -27,5 +27,5 @@ HorizonVerticalは3つの信念を掲げています。
 - [X](https://x.com/h_vertical_org)
 
 <br><br><br><br><br>
-**Maintainer**\
+**Contact & Maintain**\
 このgithub organizationは[imkoga002](https://github.com/imkoga002)によって管理されています。
